@@ -40,7 +40,7 @@ Este projeto é parte de um desafio de desenvolvimento em grupo que visa criar u
 
 ## 🛠️ Instruções de Uso
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/lobisomem-labs.git`
+1. Clone o repositório: `git clone https://github.com/seu-usuario/futebol_crud.git`
 2. Configure o banco de dados PostgreSQL.
 3. Instale as dependências: `npm install`
 4. Inicie o servidor: `npm start`
