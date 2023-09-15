@@ -43,7 +43,7 @@ Este projeto é parte de um desafio de desenvolvimento em grupo que visa criar u
 1. Clone o repositório: `git clone https://github.com/seu-usuario/futebol_crud.git`
 2. Configure o banco de dados PostgreSQL.
 3. Instale as dependências: `npm install`
-4. Inicie o servidor: `npm start`
+4. Inicie o servidor: `npm run dev`
 5. Acesse a documentação das rotas em `/docs` ou `/api-docs`.
 
 ## 📝 Avaliação e Colaboração
